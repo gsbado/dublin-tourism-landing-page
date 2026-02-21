@@ -1,6 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  line-height: 150%;
+  background-color: #F5F4F0;
+  color: #1B1B1B;
+}
+
+main {
+  padding: 40px;
+}
+
 img {
-  border-radius: 28px;  /* Adicionar o arredondamento da borda */
-  width: 100%; /* imagem ocupa 100% do tamanho disponível pra ela */
+  border-radius: 28px;
+  width: 100%;
+  display: block;
+  margin: 16px 0;
+  height: 700px;
+  object-fit: cover;
+}
+
+.destination-headline {
+  height: 1000px;
+  margin-top: 44px;
+}
+
+.trinity {
+  object-position: bottom;
+}
+
+.dublin-castle {
+  object-position: center;
+}
+
+.phoenix-park {
+  object-position: center;
+}
+
+.howth-cliffs {
+  object-position: top;
+}
+
+.temple-bar {
+  object-position: center;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: normal;
+  color: #333333;
+  margin-bottom: 16px;
+}
+
+ul {
+  padding-left: 24px;
+  list-style: circle;
+  font-size: 16px;
+}
+
+
+ul li::marker {
+  color: #333333;
+}
+
+.subtitle {
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic;
+  text-align: center;
+  color: #333333;
+  margin-top: 24px;
 }
 
 .divider {
@@ -11,12 +102,15 @@ img {
 }
 
 footer {
-  color: #f3d1bd;
+  color: #696969;
   text-align: center;
   padding-bottom: 4px;
 }
 
 footer img {
   width: 16px;
+  vertical-align: middle;
+  height: auto;
+  display: inline;
   vertical-align: middle;
 }
