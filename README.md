@@ -15,7 +15,7 @@ Images and icons are stored in the assets/ folder.
 ## 🙌 Credits
 - Original project by Rocketseat (Full-Stack Formation – "Local Turístico")
 - Modified by Gabriela Spanemberg Bado
-- Images: Unsplash (Nistala Maneesh)
+- Images: Unsplash (Nistala Maneesh, Alexandra Mitache, Help Stay, Loris Boulinguez, Elliot Voilmy, Brian Kelly, Matheus Câmara da Silva)
 
 ## 📄 License
 This project is for educational purposes.
