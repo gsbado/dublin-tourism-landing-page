@@ -22,7 +22,10 @@ This project is for educational purposes.
 
 ## 🖥️ Preview
 ![Dublin tourism landing page](src/assets/preview.jpg)
+
 ![Dublin tourism landing page 2](src/assets/preview2.jpg)
+
 ![Dublin tourism landing page 3](src/assets/preview3.jpg)
+
 ![Dublin tourism landing page 4](src/assets/preview4.jpg)
 > Examples of the project interface.
