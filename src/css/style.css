@@ -155,6 +155,7 @@ ul li::marker {
 }
 
 footer {
+  font-family: "Alice", serif;
   color: #696969;
   text-align: center;
   padding-bottom: 48px;
