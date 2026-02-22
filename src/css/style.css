@@ -7,7 +7,6 @@
   font-family: "Open Sans", sans-serif;
   line-height: 150%;
   background-color: #F5F4F0;
-  color: #1B1B1B;
 }
 
 main {
@@ -54,12 +53,14 @@ h1 {
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 8px;
+  color: #1B1B1B;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
   margin-bottom: 12px;
+  color: #1B1B1B;
 }
 
 h3 {
@@ -72,16 +73,66 @@ h3 {
 p {
   font-size: 16px;
   font-weight: normal;
-  color: #333333;
   margin-bottom: 16px;
+  color: #333333;
+}
+
+.headline {
+  text-transform: uppercase;
+  color: #E1624F;
+  font-weight: bold;
+  line-height: 22px;
+}
+
+.good-for {
+  font-weight: bold;
+  margin-bottom: auto;
+}
+
+.history {
+  font-weight: bold;
+  color :#0C51A7;
+}
+
+.couples {
+  font-weight: bold;
+  color: #591B98;
+}
+
+.families {
+  font-weight: bold;
+  color: #E5245E;
+}
+
+.budget {
+  font-weight: bold;
+  color: #E95E10;
+}
+
+.nature {
+  font-weight: bold;
+  color: #228B22;
+}
+
+.adventure {
+  font-weight: bold;
+  color: #FF4500;
+}
+
+.culture {
+  font-weight: bold;
+  color: #008080;
+}
+
+.nightlife {
+  font-weight: bold;
+  color: #323264;
 }
 
 ul {
   padding-left: 24px;
-  list-style: circle;
   font-size: 16px;
 }
-
 
 ul li::marker {
   color: #333333;
